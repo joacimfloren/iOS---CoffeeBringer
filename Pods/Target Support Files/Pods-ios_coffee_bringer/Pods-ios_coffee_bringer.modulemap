@@ -1,0 +1,6 @@
+framework module Pods_ios_coffee_bringer {
+  umbrella header "Pods-ios_coffee_bringer-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,15 @@
+PODS:
+  - ObjectMapper (2.2.1)
+  - SwiftCompressor (0.2.1)
+
+DEPENDENCIES:
+  - ObjectMapper (~> 2.2)
+  - SwiftCompressor
+
+SPEC CHECKSUMS:
+  ObjectMapper: 41e43e1a89f8060ef5ea5d04ba852e269a621d68
+  SwiftCompressor: ebad85a0494f7a4f6e0ade26746e050cab7c990a
+
+PODFILE CHECKSUM: 0b0742743bcfbabcff040db9b553fa0301dccaaa
+
+COCOAPODS: 1.1.1
